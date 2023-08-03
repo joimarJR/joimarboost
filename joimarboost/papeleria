@@ -1,0 +1,27 @@
+<div class="card" style=" max-width: 20rem;">
+                <img src="camisa B.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <center><b><h5 class="card-title">Camisa F.C.B</h5></b></center>
+                  <p class="card-text">Era una forma de expresar, desde buen principio, la vinculación del club con la ciudad que le vio nacer.</p>
+                </div>
+
+
+
+
+                <div class="card" style="width: 20rem;">
+                    <img src="camisa R.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <center><b><h5 class="card-title">Camisa R.F.C</h5></b></center>
+                      <p class="card-text">El blanco, azul y naranja representan a la ciudad, a los incondicionales del Real Madrid y a la historia del club.</p>          
+                    </div>
+
+
+
+
+
+                    <div class="card" style=" max-width: 20rem;">
+                        <img src="Messi1.jpg" class="card-img-top" alt="..." width="500px">
+                        <div class="card-body">
+                          <center><b><h5 class="card-title">Lionel Messi</h5></b></center>
+                          <p class="card-text">Era una forma de expresar, desde buen principio, la vinculación del club con la ciudad que le vio nacer.</p>
+                           </div>
